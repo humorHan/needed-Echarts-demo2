@@ -13,7 +13,7 @@ var plumber = require('gulp-plumber'); //捕获出错问题 接收errorHandler�
 
 var named = require('vinyl-named');
 
-var minifycss = require('gulp-minify-css');
+var minifycss = require('gulp-clean-css');
 
 var minifyHTML = require("gulp-minify-html");
 

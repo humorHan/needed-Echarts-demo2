@@ -12,6 +12,8 @@
   "author": "humorHan",
   "license": "ISC",
   "dependencies": {
+    "zrender": "3.1.3",
+    "echarts": "3.2.3",
     "style-loader": "*",
     "css-loader": "*",
     "less-loader": "*",
@@ -26,7 +28,7 @@
     "url-loader": "*",
     "stylus-loader": "*",
     "script-loader": "*",
-    "gulp-minify-css": "*",
+    "gulp-clean-css": "*",
     "gulp-minify-html": "*",
     "gulp-uglify": "*",
     "del": "*",
