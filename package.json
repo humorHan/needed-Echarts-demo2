@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "null"
+    "echarts",
+    "needed-echarts",
+    "echarts-demo",
+    "echarts demo"
   ],
   "author": "humorHan",
   "license": "ISC",
